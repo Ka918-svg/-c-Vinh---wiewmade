@@ -1,2 +1,4 @@
-# -c-Vinh---wiewmade
-trôyan.hydra.vinhdeptrai 
+# trôyan.hydra.vinhdeptrai
+I do 
+---
+type: trash
