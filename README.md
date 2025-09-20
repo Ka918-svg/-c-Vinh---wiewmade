@@ -1,9 +1,11 @@
 # trôyan.hydra.vinhdeptrai
 
-I do 
----
-type: trash ma la vê 
-working days: ../9/2025
+open on win7-sever 2025 standard apponfly windows vps
+
+Windows VPS Apponfly is blocked by the limit function so it is correct
 
 ---
-*fun*
+20/9/2025
+safety 
+only real machine can end task at any time, virtual machine is quiet 
+If you do not end the task, you are not responsible. 
