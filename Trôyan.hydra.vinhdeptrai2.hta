@@ -1,0 +1,30 @@
+<html>
+<head>
+    <title>Vinh đẹp trai</title>
+    <hta:application
+        id="app"
+        applicationname="VinhDepTrai"
+        border="thin"
+        maximizebutton="yes"
+        minimizebutton="yes"
+        sysmenu="yes"
+        scroll="no"
+    />
+    <script type="text/javascript">
+        function showMessage() {
+            alert("Vinh đẹp trai!");
+        }
+
+        function spawnMore() {
+            // Khi đóng HTA, tạo thêm một cửa sổ nữa
+            window.open("vinh.hta", "_blank", "width=300,height=200");
+        }
+
+        window.onbeforeunload = spawnMore; // Khi người dùng đóng cửa sổ
+    </script>
+</head>
+<body onload="showMessage()">
+    <h3>Vinh đẹp trai</h3>
+    <button onclick="showMessage()">OK</button>
+</body>
+</html>
